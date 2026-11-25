@@ -68,7 +68,7 @@ header {
 /* --- HERO (PORTADA) --- */
 .hero {
     height: 100vh;
-    background-image: url('img/laguna.jpg');
+    background-image: url('laguna.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
